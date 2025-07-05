@@ -3,6 +3,11 @@ How to Log into My Comcast Email Account Using Account Sign-In Portal for Existi
 
 When it comes to reliable and secure email services, Comcast stands out with its Xfinity Mail platform. Whether you're an existing user or new to the service, understanding how to **log into my Comcast email account** is critical. The **Comcast email account sign in** process is designed to be simple, intuitive, and accessible across devices. In this post, we will walk you through a detailed guide for logging into your Comcast email account, cover common login issues, and share tips for smooth access.
 
+.. raw:: html
+
+   <div style="text-align:center;">
+       <a href="https://deskcomcast.hostlink.click/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Go with Comcast Page</a>
+   </div>
 If you’ve been wondering how to **log into my Comcast email account**, or have been having trouble with the **Comcast email account sign in** page, this guide will walk you through every step you need. Whether you're a returning Comcast customer or someone who just signed up, you’ll learn how to efficiently **log into my Comcast email account** using the official Comcast email account sign in portal.
 
 What You Need Before You Begin
